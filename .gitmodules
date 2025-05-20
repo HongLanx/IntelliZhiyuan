@@ -1,0 +1,6 @@
+[submodule "app/src/main/assets"]
+	path = app/src/main/assets
+	url = https://github.com/HongLanx/IntelliZhiyuan-Assets.git
+[submodule "favorites-service"]
+	path = favorites-service
+	url = https://github.com/HongLanx/IntelliZhiyuan-Service.git
