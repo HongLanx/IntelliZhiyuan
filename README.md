@@ -1,7 +1,10 @@
 <!-- 文件：README.md -->
 [中文](README.md) | [English](README_en.md)
 
-# 智选志愿（IntelliZhiyuan）
+<h1 align="center">
+  <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" width="200" alt="IntelliZhiyuan">
+  <br>智选志愿（IntelliZhiyuan）<br>
+</h1>
 
 ## 简介
 智选志愿（IntelliZhiyuan）是一款基于 Android 平台的高考志愿填报辅助工具。  

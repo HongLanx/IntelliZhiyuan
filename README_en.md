@@ -1,7 +1,10 @@
 <!-- 文件：README_en.md -->
 [中文](README.md) | [English](README_en.md)
 
-# IntelliZhiyuan
+<h1 align="center">
+  <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" width="200" alt="IntelliZhiyuan">
+  <br>IntelliZhiyuan<br>
+</h1>
 
 ## Introduction
 IntelliZhiyuan is an Android application designed to assist Chinese college-entrance exam candidates in selecting and submitting their university choices.  
