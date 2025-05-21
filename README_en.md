@@ -46,9 +46,9 @@ Features include user profile management, historical score and rank lookup, inte
 - (Optional) Backend: Maven + Spring Boot 2.7+
 
 ## Build Notes
-1. Clone and initialize submodules:  
+1. Clone and initialize submodules(databases):  
    ```bash
-   git submodule update --init --recursive
+   git clone --recurse-submodules https://github.com/HongLanx/IntelliZhiyuan.git
 2. If using favorite-service, update the BASE_URL in network/NetworkModule.kt to your backend endpoint.
 
 ## Known Issues

@@ -46,9 +46,9 @@
 - （可选）后端：Maven + Spring Boot 2.7+
 
 ## 构建提示
-1. 克隆并初始化子模块：  
+1. 克隆并初始化子模块（数据库）：  
    ```bash
-   git submodule update --init --recursive
+   git clone --recurse-submodules https://github.com/HongLanx/IntelliZhiyuan.git
 2. 若使用 favorite-service，请在 network/NetworkModule.kt 中将 BASE 修改为后端实际部署地址。
 
 ## 已知问题
