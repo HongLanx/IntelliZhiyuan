@@ -4,3 +4,6 @@
 [submodule "favorites-service"]
 	path = favorites-service
 	url = https://github.com/HongLanx/IntelliZhiyuan-Service.git
+[submodule "training"]
+	path = training
+	url = https://github.com/HongLanx/IntelliZhiyuan-Training.git
